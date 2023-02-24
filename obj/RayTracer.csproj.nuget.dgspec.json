@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/tuanphongvu/Documents/GitHub/project-1-ray-tracer-PhongDavidVu/RayTracer.csproj": {}
+  },
+  "projects": {
+    "/Users/tuanphongvu/Documents/GitHub/project-1-ray-tracer-PhongDavidVu/RayTracer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tuanphongvu/Documents/GitHub/project-1-ray-tracer-PhongDavidVu/RayTracer.csproj",
+        "projectName": "RayTracer",
+        "projectPath": "/Users/tuanphongvu/Documents/GitHub/project-1-ray-tracer-PhongDavidVu/RayTracer.csproj",
+        "packagesPath": "/Users/tuanphongvu/.nuget/packages/",
+        "outputPath": "/Users/tuanphongvu/Documents/GitHub/project-1-ray-tracer-PhongDavidVu/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tuanphongvu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CommandLineParser": {
+              "target": "Package",
+              "version": "[2.9.1, )"
+            },
+            "StbImageWriteSharp": {
+              "target": "Package",
+              "version": "[1.16.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[6.0.14, 6.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

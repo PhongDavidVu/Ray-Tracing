@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "VjlNuaeFjxFTI0S+4ZzIQyCJgxxf0kfnjxf9BbyHZQ9kVUJFrQAjlg/+iaS79txhm9MOWGUT2sEfIsHIYuXzuA==",
+  "success": true,
+  "projectFilePath": "/Users/tuanphongvu/Documents/GitHub/project-1-ray-tracer-PhongDavidVu/RayTracer.csproj",
+  "expectedPackageFiles": [
+    "/Users/tuanphongvu/.nuget/packages/commandlineparser/2.9.1/commandlineparser.2.9.1.nupkg.sha512",
+    "/Users/tuanphongvu/.nuget/packages/stbimagewritesharp/1.16.7/stbimagewritesharp.1.16.7.nupkg.sha512",
+    "/Users/tuanphongvu/.nuget/packages/microsoft.netcore.app.ref/6.0.14/microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "/Users/tuanphongvu/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.14/microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "/Users/tuanphongvu/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.14/microsoft.netcore.app.host.osx-arm64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
